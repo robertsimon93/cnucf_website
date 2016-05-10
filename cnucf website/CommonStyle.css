@@ -98,6 +98,15 @@ body {
   letter-spacing: -1px;
 }
 
+/* FAQ Page Body
+------------------------- */
+.FaqHeader{
+	margin-top:120px;
+	text-align: center;
+}
+.FaqBody{
+	text-align:left;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
